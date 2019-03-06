@@ -1,3 +1,6 @@
+# Disclaimer
+Created during my first year of my Bachelor's degree, does not reflect current programming ability.
+
 # Abbreviator
 Abbreviates words according to pre-defined library with words (.txt file)
 
